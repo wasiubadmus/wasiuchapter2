@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Pacific Trails Resort </h1>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://Home.com">Home</a>
+<a href="https://www.w3schools.com">Yurts</a>
+<a href="https://Activities.com">Activities</a>
+<a href="https://www.Reservation.com">Reservation</a>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Yurts at Pacific Trails</h1>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>What is a yurt?</h3>
+
+<p>Our luxury yurts are permanent structures four feet off
+the ground. Each yurt has canvas walls, a wooden floor, a
+roof dome that can be opened, and a private deck.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>How are the yurt furnished?</h3>
+
+<p>OEach yurt is furnished with a gas fireplace, king-size bed with down quilt, comfy couch, dining table and chairs, mini-fridge, microwave, and coffee maker. Your luxury camping experience includes a sink with hot and cold running water. Shower and restroom facilities are located
+in the lodge..</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>What should I bring ?</h3>
+
+<p>Most guests pack comfortable walking shoes and plan to
+dress for changing weather with light layers of clothing.
+It's also helpful to bring a flashlight and a sense of
+adventure!.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Copyright @ 2020 Pacific Trails Resort.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://www.wasiu@badmus.com">wasiu@badmus.com</a>
+
+</body>
+</html>
